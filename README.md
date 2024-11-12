@@ -2,7 +2,7 @@
 
 **Turn any Bitcoin action into a shareable, metadata-rich link on Twitter**
 
-![Screenshot at Nov 08 10-11-57.png](https://i.ibb.co/jWb5wWr/Screenshot-at-Nov-12-12-57-55.png)
+![Screenshot at Nov 08 10-11-57.png](https://i.postimg.cc/7bvN4Qgv/Screenshot-at-Nov-12-13-39-20.png)
 
 With **Bitcoin Blinks**, we've created a feature that transforms Bitcoin-based actions (such as transactions, wallet interactions, or smart contract executions) into shareable links that are optimized for social media platforms like Twitter. These "Blinks" contain rich metadata, enabling seamless sharing and visibility of Bitcoin activities, including wallet addresses, transaction amounts, timestamps, and smart contract details. When shared on Twitter, each link displays dynamic, informative previews, allowing users to engage with Bitcoin actions directly from their timeline.
 
